@@ -1,0 +1,39 @@
+h1{
+  font-style: italic;
+}
+#fundo{
+  background-color: #a3a9fa;
+}
+.paragrafo{
+  color: red;
+}
+.paragrafo2{
+  color: #0018ff;
+}
+#para_cabecalho{
+	  background-color: ##ff0;
+	  font-size: 26px;
+	  font-style: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	  text-align: center;
+}
+
+
+footer.footer
+{
+	background:#000;
+	height: 50px;
+	padding: 13px 31px;
+	margin-top: 10px;
+	color:#ffffff;
+}
+
+footer a
+{
+	color: #ffffff;
+}
+
+footer a:hover
+{
+	color: red;
+}
+
