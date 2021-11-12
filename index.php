@@ -2,9 +2,7 @@
   session_start();
   include("db/conn.php");
 ?>
-<!-- Todo cabeçalho e menus de navegação do sistema -->
 <?php require_once("viewer/cabecalho.php"); ?>
-
       <!-- Formatar com CSS na folha de estilo -->
       <p id="para_cabecalho">Rametech</p>
     <div id="vermelho" class="col-sm-12 col-xs-12">
@@ -50,5 +48,4 @@
       	</tbody>
       </table>
     </div>
- <!-- Todo cabeçalho e menus de navegação do sistema -->
 <?php require_once("viewer/rodape.php"); ?>
